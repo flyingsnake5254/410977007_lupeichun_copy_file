@@ -47,5 +47,6 @@ qt creator
 
 google word :https://docs.google.com/document/d/1ZMLZ7nAT06eSsTfQQG-lyWoTuWRSlnlTJ3LH85R5IM0/edit?usp=sharing
 
+程式碼 github : https://github.com/flyingsnake5254/410977007_lupeichun_copy_file
 
 

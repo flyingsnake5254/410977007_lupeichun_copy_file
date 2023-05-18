@@ -2,7 +2,7 @@
 設備、環境
 Linux sherloxk-raiderge77hx12ugs 6.1.26-1-MANJARO #1 SMP PREEMPT_DYNAMIC Wed Apr 26 22:07:35 UTC 2023 x86_64 GNU/Linux
 
-使用程式語言、
+使用程式語言:
 C++ 17
 
 UI 開元工具包 ：
@@ -15,13 +15,21 @@ qt creator
 檔案架構
 .
 ├── 410977007_lupeichun_hw5_copy_file.pro
+
 ├── 410977007_lupeichun_hw5_copy_file.pro.user
+
 ├── callback.h
+
 ├── caller.h
+
 ├── copyFileCallback.h
+
 ├── main.cpp
+
 ├── mainwindow.cpp
+
 └── mainwindow.h
+
 
 檔案說明
 1. ".pro", ".pro.user" 是跟使用者偏好設定、環境配置有關的檔案（配置執行qt的環境），與我編寫的程式碼無關。
@@ -33,6 +41,9 @@ qt creator
 
 
 操作影片：https://youtu.be/LwQlGxv5YJQ
-google word :
+
+google word :https://docs.google.com/document/d/1ZMLZ7nAT06eSsTfQQG-lyWoTuWRSlnlTJ3LH85R5IM0/edit?usp=sharing
+
+
 
 

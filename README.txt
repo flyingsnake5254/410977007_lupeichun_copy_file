@@ -1,4 +1,3 @@
-# 410977007_lupeichun_copy_file
 設備、環境
 Linux sherloxk-raiderge77hx12ugs 6.1.26-1-MANJARO #1 SMP PREEMPT_DYNAMIC Wed Apr 26 22:07:35 UTC 2023 x86_64 GNU/Linux
 

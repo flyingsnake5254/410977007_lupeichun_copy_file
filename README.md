@@ -15,6 +15,7 @@ qt creator
 檔案架構:
 
 .
+
 ├── 410977007_lupeichun_hw5_copy_file.pro
 
 ├── 410977007_lupeichun_hw5_copy_file.pro.user
@@ -39,6 +40,8 @@ qt creator
 4. callback.h : 定義類別 Callback, 並定義純虛函數 updatePercentage，讓繼承的子類別必須實做。
 5. copyFileCallback.h :
         定義類別 CopyFileCallback, 並繼承 Callback與實做 updatePercentage，這裡會更新進度條與在 console 輸出 percentage , 目前以完成的 bytes
+6. caller.h : 
+		定義 private callback ，並且設置 callback 的 getter , setter ，以及註冊方法 callerRegister
 
 
 操作影片：https://youtu.be/LwQlGxv5YJQ
